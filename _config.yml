@@ -22,6 +22,7 @@ title: GummiCode
 email: your-email@example.com
 #>- # this means to ignore newlines until "baseurl:"
 description: My name's Dave. I'm a professional chemist, but what I really want is to be a software engineer. Come read about my triumphs and pitfalls on the road to coding competency.
+logo: assets/img/gummi.jpg
 baseurl: "/BlogDev"
 url: "https://gummicode.github.io"
 twitter_username: gummicode
